@@ -1,5 +1,5 @@
 ## Software:
-* Es un conjunto de programas, datos y procesos que proporcionan instrucciones u ordenes a un dispositivo electronico para 
+Es un conjunto de programas, datos y procesos que proporcionan instrucciones u ordenes a un dispositivo electronico para 
 que realice tareas especificas.
 ## Ingenieria de software:
 Es un proceso para aplicar principios de ingenieria para el diseño, desarollo o mantenimiento de manera sistematica.
